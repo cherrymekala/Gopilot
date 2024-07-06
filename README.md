@@ -11,3 +11,5 @@ In this project, I have created my own copilot by using Google's Gemini API in m
 **Generate Relational Code Feature**
 
 We can also extend it to many more features like getting insights, visualizations, access files etc.
+
+I'm hereby attaching the link to create your own apikey:- https://aistudio.google.com/app/apikey
